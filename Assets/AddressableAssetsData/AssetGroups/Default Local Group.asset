@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a2ab9eb8bd52670449f808342176cf55
+  m_SerializeEntries:
+  - m_GUID: 1b11eeed53778664697617637e2c7ce0
+    m_Address: Ships
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 429083f3502a10c42a946e98d25f533c
+    m_Address: StaticData/Ships
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ShipStaticData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fc95272c7bb10b48a56189ca13a7bc5
+    m_Address: Assets/_Project/Resources_moved/Asteroids
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Asteroid
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2e2498a3163f084396598477daf7ff9
+    m_Address: Planets
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee60e5e1850a01c47b22553f5fb24e21
+    m_Address: Assets/_Project/Resources_moved/StaticData/Levels
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LevelStaticData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5fecc9160464f24c9925c6b0496e524
+    m_Address: Assets/_Project/Resources_moved/StaticData/Planets
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlanetStaticData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c75a689e60ce144898d6edeb730010a
+    m_Address: Hud
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21a6fb565df44c947b2facee57edad91
+    m_Address: UIRoot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f457123804a524140a9f1fea3c8bf5bb
+    m_Address: PopupMessage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84f46e8273b63434e8508137d1ecc93b
+    m_Address: DamagePopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: cc46dc72a2d2e064f83cb61683ab6b38, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d39c4d59e48c0144b9cdfaf1cc710303, type: 2}
+    - {fileID: 11400000, guid: b6f3cfe148505b74f9db8d71ca1376dc, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1057bc22b37b9e4eb1063cbb8d2b501, type: 3}
+  m_Name: Venus
+  m_EditorClassIdentifier: 
+  <TypeId>k__BackingField: 1
+  <Name>k__BackingField: Venus
+  <NumberOfAsteroids>k__BackingField: 7
+  <MinOrbitRadius>k__BackingField: 3
+  <MaxOrbitRadius>k__BackingField: 4.7
+  <MinOrbitSpeed>k__BackingField: 0.1
+  <MaxOrbitSpeed>k__BackingField: 0.3
+  <MinRotationSpeed>k__BackingField: 20
+  <MaxRotationSpeed>k__BackingField: 50
+  <MinAsteroidSize>k__BackingField: 0.6
+  <MaxAsteroidSize>k__BackingField: 0.9
+  <PrefabReference>k__BackingField:
+    m_AssetGUID: 2d68080e86177f148906d7180fc509ae
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
